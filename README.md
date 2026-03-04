@@ -1,2 +1,2 @@
-# claude-code-mcp-servers
-claude-code-mcp-servers
+# custom-mcp-servers
+custom-mcp-servers
